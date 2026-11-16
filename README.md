@@ -18,7 +18,7 @@ This project builds, tunes, and deploys a Decision Tree Regressor to analyze 9 c
 | **MAPE** | **13.51%** | Average prediction is within ~13.5% of the actual price |
 | **Dataset** | 301 listings | 80/20 train-validation split |
 
-> 💡 *A MAPE under 15% is considered **"Very Good"** for commercial used-car pricing models, providing a tight, trustworthy margin for business applications.*
+
 
 ## 🛠️ Tech Stack
 
